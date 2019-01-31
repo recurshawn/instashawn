@@ -1,6 +1,8 @@
 .grid{
     width: 30%;
-    float:left;
+    //float:left;
+    display: flex;
+    flex-direction: column;
     margin: 1.66%;
 }
 
