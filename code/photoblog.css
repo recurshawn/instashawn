@@ -27,3 +27,8 @@
     color:rgb(107, 141, 255);
     opacity:.8;
 }
+
+.row{
+ display: flex;
+ flex-direction: row;
+}
